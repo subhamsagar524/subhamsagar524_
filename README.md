@@ -1,16 +1,31 @@
-### Hi there 👋
+[![Header](https://github.com/subhamsagar524/subhamsagar524/blob/main/subham.gif)](https://www.google.com/search?q=subham+sagar+paira&oq=subham+sagar+paira&aqs=chrome..69i57j69i60l3.3071j0j1&sourceid=chrome&ie=UTF-8)
 
-<!--
-**subhamsagar524/subhamsagar524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![subhamsagarpaira.com](https://img.shields.io/badge/-SUBHAMSAGARPAIRA-000?style=for-the-badge&logo=react&logoColor=fff)](https://www.subhamsagarpaira.com/)
 
-Here are some ideas to get you started:
+**Languages**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+
+**Technologies**
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-000?&logo=Cisco)
+<hr>
+
+**Github Stats:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhamsagar524&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhamsagar524&count_private=true&theme=dracula">
+</p>
+<hr>
+
+ <p align="center">
+    Show ❤️ by starring repositories you find good!
+ </p>
