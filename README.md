@@ -1,5 +1,3 @@
-[![Header](https://github.com/subhamsagar524/subhamsagar524/blob/main/subham.gif)](https://www.google.com/search?q=subham+sagar+paira&oq=subham+sagar+paira&aqs=chrome..69i57j69i60l3.3071j0j1&sourceid=chrome&ie=UTF-8)
-
 [![subhamsagarpaira.com](https://img.shields.io/badge/-SUBHAMSAGARPAIRA-000?style=for-the-badge&logo=react&logoColor=fff)](https://www.subhamsagarpaira.com/)
 
 **Languages**
