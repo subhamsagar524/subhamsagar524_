@@ -8,6 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 
 **Technologies**
 
