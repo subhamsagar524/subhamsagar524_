@@ -4,11 +4,11 @@
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
 
 **Technologies**
 
