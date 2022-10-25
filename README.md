@@ -1,4 +1,4 @@
-[![subhamsagarpaira.com](https://img.shields.io/badge/-SUBHAMSAGARPAIRA-000?style=for-the-badge&logo=react&logoColor=fff)](https://www.subhamsagarpaira.com/)
+<!-- [![subhamsagarpaira.com](https://img.shields.io/badge/-SUBHAMSAGARPAIRA-000?style=for-the-badge&logo=react&logoColor=fff)](https://www.subhamsagarpaira.com/)
 
 **Languages**
 
@@ -28,3 +28,4 @@
  <p align="center">
     Show ❤️ by starring repositories you find good!
  </p>
+ -->
